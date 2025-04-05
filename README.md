@@ -38,8 +38,7 @@ A real-time note-taking application built with React and Firebase, featuring use
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd notes-app
+git clone https://github.com/garvsharrma/Notes.git
 ```
 
 2. Install dependencies:
